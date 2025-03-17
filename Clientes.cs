@@ -1,4 +1,4 @@
-namespace Cliente;
+namespace controle_clientes;
 
 
 class Cliente
