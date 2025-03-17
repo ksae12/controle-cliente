@@ -12,3 +12,4 @@ C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes
 C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\obj\Debug\net9.0\controle_clientes.pdb
 C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\obj\Debug\net9.0\controle_clientes.genruntimeconfig.cache
 C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\obj\Debug\net9.0\ref\controle_clientes.dll
+C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\obj\Debug\net9.0\controle_clientes.sourcelink.json
