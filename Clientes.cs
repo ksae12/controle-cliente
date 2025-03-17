@@ -1,7 +1,7 @@
 namespace controle_clientes;
 
 
-class Cliente
+class Clientes
 {
     public string Nome { get; set; }
     public string Endereco { get; set; }
