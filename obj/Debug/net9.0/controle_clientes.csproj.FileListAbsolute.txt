@@ -1,0 +1,14 @@
+C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\bin\Debug\net9.0\controle_clientes.exe
+C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\bin\Debug\net9.0\controle_clientes.deps.json
+C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\bin\Debug\net9.0\controle_clientes.runtimeconfig.json
+C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\bin\Debug\net9.0\controle_clientes.dll
+C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\bin\Debug\net9.0\controle_clientes.pdb
+C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\obj\Debug\net9.0\controle_clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\obj\Debug\net9.0\controle_clientes.AssemblyInfoInputs.cache
+C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\obj\Debug\net9.0\controle_clientes.AssemblyInfo.cs
+C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\obj\Debug\net9.0\controle_clientes.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\obj\Debug\net9.0\controle_clientes.dll
+C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\obj\Debug\net9.0\refint\controle_clientes.dll
+C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\obj\Debug\net9.0\controle_clientes.pdb
+C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\obj\Debug\net9.0\controle_clientes.genruntimeconfig.cache
+C:\Users\ferna\Desktop\Programação\SENAI\C#\controle-cliente\controle_clientes\obj\Debug\net9.0\ref\controle_clientes.dll
