@@ -1,5 +1,5 @@
 
-# Sistema de Cálculo de Imposto - Bacl-End com C#
+# Sistema de Cálculo de Imposto - Back-End com C#
 
 Este é um sistema simples desenvolvido como atividade do curso de Back-End do [SENAI](https://www.fiepb.com.br/senai), usando a linguagem de programação [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/). O sistema implementa conceitos da POO, como abstração, herança e polimorfismo.
 
